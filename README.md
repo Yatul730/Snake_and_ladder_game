@@ -1,1 +1,1 @@
-# Snake_and_ladder_game
+The Snake and Ladder game in C++ involves simulating the classic board game where players roll a dice and move their game piece on the board. The code initializes the board, creates player objects, and enters a game loop. In each iteration, players roll the dice, move their pieces accordingly, and check for snakes or ladders. The game continues until a player reaches or exceeds the final square. The implementation involves classes, loops, conditional statements, and random number generation, allowing for an interactive and enjoyable gaming experience
